@@ -17,7 +17,6 @@ I've worked on **personal, team-leading and academic projects**, and I'm activel
 ---
 
 ###  Tech stack
-### 🛠 Tech stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
