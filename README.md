@@ -54,9 +54,9 @@ Some of the repositories that best represent what I do:
 
 | Project | Description | Tech |
 | ------ | ----------- | ---- |
+| [Recetario EDA – C++ Recipe Manager](https://github.com/AlanGlzQ/recipe-manager-eda-cpp) | C++ console app to manage a recipe book using custom **generic linked lists** (singly & doubly), **merge sort over nodes**, and **file persistence**. Includes a full project report (diagrams, requirements, tests) in `docs/DOCUMENTACION_RECETARIO_AGQ.pdf`. | C++17 |
 | [CampusCucei](https://github.com/AlanGlzQ/Aplicaci-n-M-vil-Escolar) | Mobile app for CUCEI students: login with code/NIP, academic info, embedded directory, videos and interactive campus map. | React Native, Expo, WebView |
-| [Programación Estructurada](https://github.com/AlanGlzQ/Programacion-Estructurada) | Collection of C and C++ exercises, from basics to more complex problems, used as a training ground to practice structured and modular programming. | C, C++ |
-| (Coming soon) C/C++ projects | University / personal projects refactored into standalone repos, with better structure, docs and build instructions. | C, C++ |
+| [Programación Estructurada](https://github.com/AlanGlzQ/Programacion-Estructurada) | Collection of C and C++ exercises (from fundamentals to more complex problems) to practice structured and modular programming. | C, C++ |
 
 > More repos are a mix of course projects and experiments.  
 > The ones above are the best starting point if you're evaluating my work.
@@ -77,5 +77,3 @@ Some of the repositories that best represent what I do:
 - LinkedIn: **[linkedin.com/in/alanglzq](https://www.linkedin.com/in/alanglzq)**
 
 > Open to **internships / junior opportunities** related to C/C++ development, backend or mobile.
-
-
