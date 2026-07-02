@@ -54,7 +54,7 @@ Some of the repositories that best represent what I do:
 
 | Project | Description | Tech |
 | ------ | ----------- | ---- |
-| [Recetario EDA – C++ Recipe Manager](https://github.com/AlanGlzQ/recipe-manager-eda-cpp) | C++ console app to manage a recipe book using custom **generic linked lists** (singly & doubly), **merge sort over nodes**, and **file persistence**. Includes a full project report (diagrams, requirements, tests) in `docs/DOCUMENTACION_RECETARIO_AGQ.pdf`. | C++17 |
+| [Recetario EDA – C++ Recipe Manager](https://github.com/AlanGlzQ/recipe-manager-eda-cpp) | C++ console app to manage a recipe book using custom **generic linked lists** (singly & doubly), **merge sort over nodes**, and **file persistence**. Includes a full project report (diagrams, requirements, tests) in `docs/DOCUMENTACION_RECETARIO_AGQ.pdf`. | C++ |
 | [campus-cucei-app](https://github.com/AlanGlzQ/campus-cucei-app) | Mobile app for CUCEI students: login with code/NIP, academic info, embedded directory, videos and interactive campus map. | React Native, Expo, WebView |
 | [Programación Estructurada](https://github.com/AlanGlzQ/Programacion-Estructurada) | Collection of C and C++ exercises (from fundamentals to more complex problems) to practice structured and modular programming. | C, C++ |
 
